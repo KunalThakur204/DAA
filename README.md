@@ -45,7 +45,7 @@ Make sure you have Python and Pygame installed:
 
 ## 🎨 Screenshots
 
-📷 
+📷 ![Image](https://github.com/user-attachments/assets/89e3310e-f14e-49b1-a06a-f11183dae1b9)
 
 ## 🤓 About the Developer
 
